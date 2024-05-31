@@ -21,8 +21,8 @@ class BondSpider(scrapy.Spider):
         bond_data = response.css("td.table__td::text").getall()
         yield {
             "price": response.css("span.price-section__current-value::text").get(),
-            "coupon": bond_data[20].strip(),
+            # "coupon": bond_data[20].strip(),
             "ISIN": bond_data[1].strip(),
-            "issue date": bond_data[17].strip(),
-            "maturity date": bond_data[30].strip()
+            # "issue date": bond_data[17].strip(),
+            # "maturity date": bond_data[30].strip()
         }

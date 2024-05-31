@@ -1,4 +1,3 @@
-// 31/05/2024
 {"price": "99.95", "coupon": "2.500%", "ISIN": "CA135087B451", "issue date": "7/2/2013", "maturity date": "6/1/2024"}
 {"price": "99.53", "coupon": "2.750%", "ISIN": "CA135087N910", "issue date": "5/24/2022", "maturity date": "8/1/2024"}
 {"price": "98.89", "coupon": "3.500%", "ISIN": "CA135087Q640", "issue date": "5/12/2023", "maturity date": "8/1/2025"}
@@ -42,5 +41,3 @@
 {"price": "99.59", "coupon": "4.000%", "ISIN": "CA135087R978", "issue date": "5/6/2024", "maturity date": "8/3/2026"}
 {"price": "97.52", "coupon": "1.500%", "ISIN": "CA135087N340", "issue date": "1/24/2022", "maturity date": "4/1/2025"}
 {"price": "97.95", "coupon": "3.000%", "ISIN": "CA135087P816", "issue date": "1/20/2023", "maturity date": "4/1/2026"}
-
-// 01/06/2024
